@@ -23,3 +23,32 @@ IMPORTANT : variables non nécessaires
  11   abbreviated_product_name          float64
  12   generic_name                      object 
  13   quantity                          object
+
+IMPORTANT : variables Nutriscore 
+
+energy-kj_100g
+sugars_100g
+saturated-fat_100g
+sodium_100g --(si il n'y a pas sodium, on peut convertir le sel en sodium)--> salt_100g 
+fiber_100g
+proteins_100g
+fruits-vegetables-legumes_100g
+
+IMPORTANT : variables Ecoscore
+
+categories
+categories_tags
+main_category
+main_category_en
+labels
+labels_tags
+origins
+origins_tags
+countries
+countries_tags
+manufacturing_places
+ingredients_text
+ingredients_tags
+packaging
+packaging_tags
+packaging_text
